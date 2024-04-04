@@ -9,47 +9,42 @@
 * [6. Выводы](https://github.com/Zylno/sf_data_science_DSPR-123/blob/main/Project_2#Выводы)
 
 ### Описание проекта
-Угадать загаданное компьютером число за минимальное число попыток.
+Провести анализ вакансий из HeadHunter
 
-:arrow_up:[к оглавлению](https://github.com/Zylno/sf_data_science/tree/main/project_0#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Zylno/sf_data_science_DSPR-123/blob/main/Project_2#Оглавление)
 
 
-### Какой кейс решем?
-Нужно написать программу, которая угадывает число за минимальное количество попыток.
-
-**Условие задания**
-- Компьютер загадывает целое число от 1 до 100, и нам нужно его угадать. Под "угадать", подразумевается "написать программу, которая угадывает число".
-- Алгоритм учитывает информацию о том, больше ли случайное число или меньше нужного нам.
-- Представлен шаблон [baseline](https://colab.research.google.com/drive/1k2WZD8PWWOYFHrpAJoB2eZw06ID7KnFA#scrollTo=12-TQnb0tayz) из скринкаста.
-
-**Метрика качества**
-Результаты оцениваются по среднему количеству попыток при 1000 повторений
-
-**Что практикуем**
-- Учимся писать хороший код на Python.
-- Учимся работать с IDE.
-- Учимся работать с GitHub.
-
+### Наш проект включает в себя несколько этапов:
+* знакомство с данными;
+* предварительный анализ данных;
+* детальный анализ вакансий;
+* анализ работодателей;
+* предметный анализ.
 
 ### Краткая информация о данных
-....
+Схема public, которая включает в себя:
+* Vacancies - Таблица хранит в себе данные по вакансиям;
+* Areas - Таблица-справочник, которая хранит код региона и его название;
+* Employers - Таблица-справочник со списком работодателей;
+* Industries - Таблица-справочник вариантов сфер деятельности работодателей;
+* Employers_Industries - Дополнительная таблица, которая существует для организации связи между работодателями и сферами их деятельности.
 
-:arrow_up:[к оглавлению](https://github.com/Zylno/sf_data_science/tree/main/project_0#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Zylno/sf_data_science_DSPR-123/blob/main/Project_2#Оглавление)
 
 
 ### Этапы работы над проектом
 ....
 
-:arrow_up:[к оглавлению](https://github.com/Zylno/sf_data_science/tree/main/project_0#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Zylno/sf_data_science_DSPR-123/blob/main/Project_2#Оглавление)
 
 
 ### Результаты
 ....
 
-:arrow_up:[к оглавлению](https://github.com/Zylno/sf_data_science/tree/main/project_0#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Zylno/sf_data_science_DSPR-123/blob/main/Project_2#Оглавление)
 
 
 ### Выводы
 ....
 
-:arrow_up:[к оглавлению](https://github.com/Zylno/sf_data_science/tree/main/project_0#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Zylno/sf_data_science_DSPR-123/blob/main/Project_2#Оглавление)
